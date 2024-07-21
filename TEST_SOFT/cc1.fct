@@ -1,0 +1,7 @@
+main DSTACK_USAGE:78 DSTACK_LEVEL:78 FILE:"main.c" LINE:419
+afisare DSTACK_USAGE:10 DSTACK_LEVEL:88 FILE:"main.c" LINE:397
+define_char DSTACK_USAGE:5 DSTACK_LEVEL:93 FILE:"main.c" LINE:364
+lcd_write_byte DSTACK_USAGE:2 DSTACK_LEVEL:95 FILE:"C:\cvavreval\lib\alcd.lib" LINE:181
+_lcd_write_data DSTACK_USAGE:1 DSTACK_LEVEL:96 FILE:"C:\cvavreval\lib\alcd.lib" LINE:166
+_lcd_write_nibble DSTACK_USAGE:1 DSTACK_LEVEL:97 FILE:"C:\cvavreval\lib\alcd.lib" LINE:142
+usart0_rx_isr DSTACK_USAGE:5 DSTACK_LEVEL:102 FILE:"main.c" LINE:80
